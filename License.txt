@@ -1,0 +1,16 @@
+AvaDesk Software License v1.0
+Copyright (c) 2025 [Mark Geimil Tajan]
+
+Permission is hereby granted to individuals and organizations to use, copy, and modify the AvaDesk source code and assets for **personal, educational, or internal non-commercial purposes**, subject to the following conditions:
+
+1. **Attribution**: You must give appropriate credit to the original author.
+2. **Non-Commercial Use Only**: Commercial use — including but not limited to reselling, sublicensing, offering as a hosted service, or integrating into paid services — is **not permitted** without written permission and a separate commercial license.
+3. **Modifications**: You may create derivative works, but they must include this license and remain non-commercial.
+4. **Royalties**: Any commercial use must be subject to a royalty agreement or licensing fee negotiated with the original author.
+5. **No Warranty**: The software is provided "as is", without warranty of any kind.
+
+For commercial licensing, contact: [marktajan@icloud.com]
+
+---
+
+This license is not an open-source license. All rights not expressly granted are reserved by the author.
